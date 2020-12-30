@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: url(img/langit.jpg);
+    background-size: cover;
+    height:540px;
+    text-align: center;
+    position: relative;
+}
